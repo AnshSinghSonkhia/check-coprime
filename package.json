@@ -4,7 +4,7 @@
   "description": "Checks if two numbers are coprime",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/AnshSinghSonkhia/isCoprime/issues"
   },
-  "homepage": "https://github.com/AnshSinghSonkhia/isCoprime#readme"
+  "homepage": "https://github.com/AnshSinghSonkhia/isCoprime#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
