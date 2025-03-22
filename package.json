@@ -1,0 +1,28 @@
+{
+  "name": "iscoprime",
+  "version": "1.0.0",
+  "description": "Checks if two numbers are coprime",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnshSinghSonkhia/isCoprime.git"
+  },
+  "keywords": [
+    "coprime",
+    "co-prime",
+    "prime",
+    "numbers",
+    "math",
+    "number",
+    "system"
+  ],
+  "author": "Ansh Singh Sonkhia",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/AnshSinghSonkhia/isCoprime/issues"
+  },
+  "homepage": "https://github.com/AnshSinghSonkhia/isCoprime#readme"
+}
