@@ -1,4 +1,4 @@
-# iscoprime
+# check-coprime
 
 Checks if two numbers are coprime or not & return true or false (boolean type).
 
@@ -11,14 +11,14 @@ Checks if two numbers are coprime or not & return true or false (boolean type).
 Install the package via npm:
 
 ```sh
-npm i iscoprime
+npm i check-coprime
 ```
 ---
 
 # Usage
 
 ```js
-const iscop = require('iscoprime');
+const iscop = require('check-coprime');
 
 console.log(iscop.isCoprime(14, 15)); // Output: true
 console.log(iscop.isCoprime(14, 21)); // Output: false

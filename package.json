@@ -1,5 +1,5 @@
 {
-  "name": "iscoprime",
+  "name": "check-coprime",
   "version": "1.0.0",
   "description": "Checks if two numbers are coprime",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AnshSinghSonkhia/isCoprime.git"
+    "url": "git+https://github.com/AnshSinghSonkhia/check-coprime.git"
   },
   "keywords": [
     "coprime",
@@ -22,9 +22,9 @@
   "author": "Ansh Singh Sonkhia",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/AnshSinghSonkhia/isCoprime/issues"
+    "url": "https://github.com/AnshSinghSonkhia/check-coprime/issues"
   },
-  "homepage": "https://github.com/AnshSinghSonkhia/isCoprime#readme",
+  "homepage": "https://github.com/AnshSinghSonkhia/check-coprime#readme",
   "devDependencies": {
     "jest": "^29.7.0"
   }
